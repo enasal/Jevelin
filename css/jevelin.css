@@ -1,0 +1,173 @@
+body {
+font-family: "Roboto";
+color: #363636;
+}
+header{
+	height: 70px;
+/*	position: fixed;*/
+}
+#brand{
+	float:left;
+	margin-left: 10%;
+	
+}
+nav{
+	float:right;
+    margin-right: 10%;
+    line-height: 70px;
+}
+nav a{
+	margin-left: 20px;
+}
+a{
+	text-decoration: none;
+	color:#000;
+}
+a i{
+	color:lightgray;
+}
+#first{
+	clear:both;
+	width: 100%;
+	background-image: url("../imgs/lady.jpg");
+}
+#imgs{
+	padding-bottom: 200px;
+}
+.two{
+	margin-left: 200px;
+}
+.th{
+	font-size: 50px;
+	line-height: 1;
+	padding-top: 150px;
+}
+p{
+	font-size: 14px;
+	padding-bottom: 50px;
+}
+.rt{
+
+float:left;
+text-align: justify;
+border-radius: 10px;
+}
+.d1{
+		
+	height: 400px;
+	width:500px;
+	background-color: #b9f7f9 !important;
+}
+#d2{
+	height: 410px;
+	width: 500px;
+    background-color: #47c9e5 !important;
+}
+.inpu{
+		border:none;
+    box-sizing: border-box;
+    border-radius: 60px;
+     padding: 16px 16px;
+	background-color: #fff;
+	color:#000;
+
+}
+.top{
+	padding-top:500px;
+}
+.flot{
+	float:left;
+	width: 500px;
+
+}
+.marg2{
+	margin-left: 300px;
+}
+.marg{
+	margin-left: 200px;
+	margin-top: 100px;
+}
+.marg a{
+	color:#11cbd7;
+	font-size: 15px;
+}
+.top2 p{
+	font-size: 15px;
+    color:  #363636;
+    font-weight: 400;
+    line-height: 1.8;
+	margin-top: 20px;
+
+}
+.top2 a{
+	color:#fff;
+	font-size: 15px;
+	text-decoration: none;
+	background-color: #3ce2ad;
+	padding:20px 30px 20px 30px ;
+
+	border-color: #3ce2ad;
+	border-radius: 50px;
+}
+.top2 a:hover{
+	background-color: #fff;
+	color:#000;
+	border:2px solid #3ce2ad;
+}
+.top2{
+	margin-top: 50px;
+}
+.size{
+	font-size: 40px;
+}
+.top2 span{
+	font-size: 17px;
+	line-height: 1.8;
+	font-weight: 900;
+	color: #363636;
+}
+.one{
+	padding-top: 50px;
+}
+.dev{
+	 box-sizing: border-box;
+    border-radius: 10px;
+     padding:16px 200px 16px 16px;
+	background-color: #ddd;
+	color:#000;
+	margin-bottom: 20px;
+}
+.rt h1{
+	color:#11cbd7;
+	font-size: 40px;
+}
+.rt h2{
+	font-size:25px;
+}
+.left{
+	padding-left: 30px;
+	padding-top: 30px;
+}
+.sect-12{
+	clear: both;
+	height: 1000px;
+	background-image: url("../imgs/bg.jpg");
+	background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+.float{
+	float:left;
+	margin-top: 80px;
+	margin-left: 90px;
+	margin-right: 80px;
+	width: 250px;
+	text-align: justify;
+}
+.bg_color{
+	margin-left: 100px;
+	margin-right: 100px;
+	background-color: #fff !important;
+	border-radius: 10px;
+	height: 700px;
+}
